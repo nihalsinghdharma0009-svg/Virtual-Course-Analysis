@@ -8,9 +8,9 @@ Analyze viewership trends across languages and categories
 Discover in-demand skills in the online learning market
 Evaluate factors affecting course engagement (duration, subtitles, etc.)
 ## 🛠️ Tools & Technologies
-Power BI (Dashboard Visualization)
-Excel / CSV (Data Source)
-Data Cleaning & Transformation
+Power BI (Dashboard Visualization),
+Excel / CSV (Data Source),
+Data Cleaning & Transformation,
 Data Visualization
 ## 📂 Dataset
 Total Courses: 2693
@@ -26,13 +26,13 @@ Business (highest number of courses)
 Computer Science
 Data Science
 Highest Viewership:
-## Data Science courses receive the highest average viewership
+### Data Science courses receive the highest average viewership
 ## Most In-Demand Skills:
-Data Analysis
-Python Programming
-Machine Learning
-SQL
-Communication
+Data Analysis,
+Python Programming,
+Machine Learning,
+SQL,
+Communication,
 ### Interesting Observations:
 No clear relationship between course duration and viewership
 Subtitle availability does not strongly impact engagement
